@@ -1,0 +1,35 @@
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\DQA Deskton.exe
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\DQA Deskton.deps.json
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\DQA Deskton.runtimeconfig.json
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\DQA Deskton.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\DQA Deskton.pdb
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA_Deskton.Form1.resources
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.csproj.GenerateResource.cache
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.AssemblyInfoInputs.cache
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.AssemblyInfo.cs
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.csproj.CoreCompileInputs.cache
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\refint\DQA Deskton.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.pdb
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.genruntimeconfig.cache
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\ref\DQA Deskton.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.csproj.AssemblyReference.cache
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.csproj.CopyComplete
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\Interop.ADODB.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\codes\c project\DQA Deskton\DQA Deskton\obj\Debug\net6.0-windows\DQA Deskton.csproj.ResolveComReference.cache
